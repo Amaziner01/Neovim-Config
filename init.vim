@@ -14,8 +14,7 @@ set termguicolors
 
 set clipboard=unnamed
 set mouse=a
-color pole
-
+color nord
 
 " ===Plugins===
 
